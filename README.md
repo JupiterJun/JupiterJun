@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![JupiterJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JupiterJun&show_icons=true)
+![ShuJun-Junical's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuJun-Junical&show_icons=true)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
